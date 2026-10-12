@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /uploads/
+Disallow: /config.php
+Disallow: /cleanup.php
+Disallow: /teacher-dashboard.php
